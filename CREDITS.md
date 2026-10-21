@@ -32,3 +32,11 @@ v1.4.1 的最後修補直接恢復基準圖的袖口像素，未在該次修補�
 - 格式參考：Stretchy Studio，MIT，https://github.com/MangoLion/stretchystudio
 - 對應 MIT 授權文字隨模型包保留；沒有把角色、美術或參考圖統一宣告為 MIT。
 - 本專案沒有附帶第三方 Live2D SDK／Core 執行庫，也沒有 Cubism Editor CMO3 工程。
+
+## 權利疑慮與下架聯絡
+
+本專案為非官方、免費、非營利同人作品。角色、官方素材與參考作品的相關權利歸各權利人所有。
+
+若您為原作者或相關權利人，認為本專案有使用不當或侵權疑慮，請透過
+[GitHub Issues](https://github.com/ice582/Shu-BongoCat/issues/new) 聯絡，並提供作品來源與涉及的檔案或內容。
+我們會在收到通知後盡速確認，並下架、移除或修正相關內容。
