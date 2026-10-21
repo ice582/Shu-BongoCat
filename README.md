@@ -12,9 +12,9 @@
 
 ![瀏覽器動作示範](demo.gif)
 
-[24 秒 MP4 示範](demo.mp4) · [安裝步驟](INSTALL-zh-TW.md) · [已知限制](KNOWN-ISSUES.md) · [素材來源與 AI 製作說明](CREDITS.md)
+[連續移動示範 MP4](demo.mp4) · [安裝步驟](INSTALL-zh-TW.md) · [已知限制](KNOWN-ISSUES.md) · [素材來源與 AI 製作說明](CREDITS.md)
 
-影片與 GIF 取自本版的瀏覽器渲染預覽，並非原生桌面錄影。
+影片與 GIF 採用本版瀏覽器預覽的連續滑鼠軌跡自動演示，並非原生桌面錄影。
 
 ## 下載與安裝
 
