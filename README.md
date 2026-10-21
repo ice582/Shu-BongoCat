@@ -4,6 +4,12 @@
 
 讓黍陪你敲鍵盤。
 
+## [下載模型 ZIP · v1.4.1 beta · 9.39 MB](https://github.com/ice582/Shu-BongoCat/releases/download/v1.4.1-beta/Shu-BongoCat-v1.4.1-beta.zip)
+
+[安裝指南](INSTALL-zh-TW.md) · [BongoCat 本體](https://github.com/ayangweb/BongoCat/releases) · [授權與權利範圍](LICENSE.md)
+
+請下載 **`Shu-BongoCat-v1.4.1-beta.zip`**。Release 的 `Source code` 和 `Code → Download ZIP` 是這個發布頁的檔案，不包含可安裝模型。
+
 ![黍 BongoCat 封面](cover.png)
 
 《明日方舟》黍的非官方 BongoCat 標準模式皮膚。
@@ -39,10 +45,21 @@
 
 ## 測試與回報
 
-本機 Windows 10／BongoCat 2.3.1 已安裝、啟用與通過五秒啟動檢查。
-瀏覽器預覽已檢查 17 張鍵圖與滑鼠參數；原生桌面完整按鍵效果仍待逐項確認。
+本版維持 **Beta 測試版**，驗證範圍如下：
+
+| 檢查項目 | 狀態 |
+| --- | --- |
+| 瀏覽器的 17 張鍵圖與滑鼠參數 | 已檢查 |
+| Windows 10／BongoCat 2.3.1 原生載入與五秒啟動 | 已通過 |
+| 原生桌面的逐鍵、多鍵與滑鼠極限位置 | 尚待完整視覺核對 |
+| 全新使用者透過 GUI 匯入模型 | 尚待端到端測試 |
 完整範圍見 [已知限制與驗證](KNOWN-ISSUES.md)。
 回報時請附 BongoCat 版本、作業系統、螢幕縮放、觸發按鍵及能看清問題的截圖或短片。
+
+## 授權與權利範圍
+
+本專案沒有將全部內容統一宣告為 MIT。第三方程式各依其原授權；角色、官方素材與參考圖像的權利另計。
+第三方授權全文保留於 [third-party/](third-party/)，適用範圍見 [LICENSE.md](LICENSE.md)，來源與 AI 製作方式見 [CREDITS.md](CREDITS.md)。
 
 ## 權利疑慮與下架聯絡
 

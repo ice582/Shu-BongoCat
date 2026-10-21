@@ -3,6 +3,12 @@
 非官方、免費、非營利的《明日方舟》黍 BongoCat 標準模式皮膚，使用 AI 輔助重繪、補繪與程式分層。
 表情採簡化半瞇眼，提供 17 張鍵盤手勢與滑鼠跟隨／點擊動作。
 
+## 下載模型
+
+**[下載 `Shu-BongoCat-v1.4.1-beta.zip`（9.39 MB）](https://github.com/ice582/Shu-BongoCat/releases/download/v1.4.1-beta/Shu-BongoCat-v1.4.1-beta.zip)**
+
+請選這個模型附件。下方 GitHub 自動產生的 `Source code (zip/tar.gz)` 不含可安裝模型；`Code → Download ZIP` 也只含發布頁檔案。
+
 ## 附件
 - `Shu-BongoCat-v1.4.1-beta.zip`：模型、分層 PNG、重建來源、提示詞與授權文字。
 - `SHA256SUMS.txt`：附件檔案校驗碼。
@@ -29,6 +35,11 @@ https://www.bilibili.com/video/BV12H4y1Y7cB/
 其簡介記錄為「根据官方表情包修改」。完整角色、素材與技術參考見 CREDITS.md。
 
 本版標記為 pre-release，供免費、非營利測試與回饋。完整來源、AI 製作說明與已知限制請見專案首頁。
+
+## 授權範圍
+
+本專案沒有將全部內容統一宣告為 MIT。兩份 MIT 授權各適用於相應的第三方程式，角色與參考圖像的權利另計。
+完整說明見 [LICENSE.md](https://github.com/ice582/Shu-BongoCat/blob/main/LICENSE.md)；第三方授權全文見 [third-party/](https://github.com/ice582/Shu-BongoCat/tree/main/third-party)。
 
 ## 權利疑慮與下架聯絡
 

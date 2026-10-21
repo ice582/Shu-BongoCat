@@ -12,7 +12,7 @@
 - 另有使用者提供的角色立繪截圖，以及外觀參考影片：
   https://www.bilibili.com/video/BV1pv421r7NT/
 
-以上為參考來源紀錄，不代表官方或參考作者為本專案背書。
+以上為參考來源紀錄，不代表官方或參考作者為本專案背書。參考作者允許本改作公開分享的說明尚未確認。
 角色、官方素材與參考作品的相關權利仍屬各權利人。
 包內未附上述影片、原始 GIF 或其背景音樂。
 
@@ -30,7 +30,7 @@ v1.4.1 的最後修補直接恢復基準圖的袖口像素，未在該次修補�
   breadman 並非在此被列為本專案黍圖像的作者。
 - MOC3 序列化器：py-moc3，MIT，https://github.com/Ludentes/py-moc3
 - 格式參考：Stretchy Studio，MIT，https://github.com/MangoLion/stretchystudio
-- 對應 MIT 授權文字隨模型包保留；沒有把角色、美術或參考圖統一宣告為 MIT。
+- 對應 MIT 授權全文保留於本儲存庫的 [third-party/](third-party/)，並隨模型包保留；沒有把角色、美術或參考圖統一宣告為 MIT。完整適用範圍見 [LICENSE.md](LICENSE.md)。
 - 本專案沒有附帶第三方 Live2D SDK／Core 執行庫，也沒有 Cubism Editor CMO3 工程。
 
 ## 權利疑慮與下架聯絡

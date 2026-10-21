@@ -4,14 +4,14 @@
 本機確認的環境為 Windows 10、BongoCat 2.3.1；其他版本與 macOS 尚未實測。
 
 1. 從 https://github.com/ayangweb/BongoCat/releases 安裝本體。
-2. 下載本專案 Release 附件 `Shu-BongoCat-v1.4.1-beta.zip`，解壓縮到獨立資料夾。
+2. [下載模型附件 `Shu-BongoCat-v1.4.1-beta.zip`（9.39 MB）](https://github.com/ice582/Shu-BongoCat/releases/download/v1.4.1-beta/Shu-BongoCat-v1.4.1-beta.zip)，解壓縮到獨立資料夾。
 3. 打開 BongoCat 的設定，進入模型管理／模型庫，使用匯入資料夾功能。
 4. 選取解壓後直接包含 `cat.model3.json` 的資料夾，再選取並啟用匯入的模型。
 5. 使用標準模式。關閉「顯示所有按鍵圖」類似選項，同側手使用最後按下的鍵。
 6. 先試 W、A、S、D，再試滑鼠移動和左右鍵。放開鍵盤後應回到待機手勢。
 
 BongoCat 2.3.1 的模型匯入來源是資料夾，不要直接選 ZIP。
-GitHub 自動產生的 Source code 壓縮檔是專案來源；一般使用者請選上述模型附件。
+GitHub 自動產生的 `Source code (zip/tar.gz)` 與 `Code → Download ZIP` 只含這個發布頁的檔案，不含模型；請選上面的 9.39 MB 模型附件。模型的分層與重建來源也包含在該模型附件裡。
 不同顯示語言的按鈕名稱可能不同。
 
 支援：1–7、Q / W / E / R、A / S / D、Shift、Ctrl、Space，共 17 張鍵盤手勢圖。
