@@ -30,7 +30,7 @@ v1.4.1 的最後修補直接恢復基準圖的袖口像素，未在該次修補�
   breadman 並非在此被列為本專案黍圖像的作者。
 - MOC3 序列化器：py-moc3，MIT，https://github.com/Ludentes/py-moc3
 - 格式參考：Stretchy Studio，MIT，https://github.com/MangoLion/stretchystudio
-- 對應 MIT 授權全文保留於本儲存庫的 [third-party/](third-party/)，並隨模型包保留；沒有把角色、美術或參考圖統一宣告為 MIT。完整適用範圍見 [LICENSE.md](LICENSE.md)。
+- 對應 MIT 授權全文保留於本儲存庫的 [third-party/](https://github.com/ice582/Shu-BongoCat/tree/main/third-party)，並隨模型包保留；沒有把角色、美術或參考圖統一宣告為 MIT。完整適用範圍見 [LICENSE.md](LICENSE.md)。
 - 本專案沒有附帶第三方 Live2D SDK／Core 執行庫，也沒有 Cubism Editor CMO3 工程。
 
 ## 權利疑慮與下架聯絡
