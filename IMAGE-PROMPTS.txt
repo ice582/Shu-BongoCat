@@ -1,0 +1,26 @@
+Generation mode: built-in image_gen. Transparent background.
+Reference: work/shu-primary-reference.png, the user's selected half-lidded chibi Shu reference.
+Scope: newly drawn complete illustration; this PNG is not a compiled Live2D/BongoCat model.
+
+Use case: illustration-story.
+Asset type: a completely redrawn transparent chibi Shu (黍, Arknights) keyboard-and-mouse BongoCat character illustration.
+Primary request: Create a NEW, cohesive drawing from scratch using the attached user's chibi reference as the visual basis. The reference is authoritative for character identity, face proportions, half-lidded eyes, hair shapes and simple drawing style. Change the pose to a front-facing seated keyboard pet, left hand on a compact keyboard, right hand on a small computer mouse. Do not reproduce the fish or background.
+Style: flat, charming, clean 2D anime chibi with restrained cel shading. All contours must be genuinely THIN, crisp opaque near-black, evenly weighted (roughly 3px for a 700px-wide character); do not simulate thinner lines with gray or low opacity. Eyelashes may be slightly thicker than contours. No painted/rendered/metallic hair.
+Subject identity: silvery gray hair, distinct muted ochre-gold hair sections and cobalt-blue ends. Two branching rounded antlers with white/gold lower areas and deep cobalt-blue tips, unmistakably forked rather than straight horns. Long pointed ears and red-orange dangling earrings with blue lower tips. White-and-navy Chinese-inspired outfit, ochre accents, simple square ornament at collar and a small vertical arrangement of square chest ornaments. Long hair behind shoulders.
+Face: match the reference's calm amused half-lidded expression and compact face. Two modestly sized U-shaped half-open eyes, pale desaturated gray-green fill, dark upper eyelids, thin curved lower contours. NO separate pupil dots, slit pupils, iridescent gems or highlights. Eyes sit naturally below the bangs, evenly aligned in the same face plane, neither huge nor too far down or far apart. Small smiling open mouth, subtle pink cheek marks. No giant forehead, no empty stretched face, no pasted-on eye components.
+Composition: single complete character and input devices, centered with comfortable transparent margins, antlers fully visible. A balanced large chibi head and smaller shoulders/body, neither spherical balloon head nor elongated face. Hands integrated naturally into sleeves. Compact keyboard below torso, simple UNLABELLED keycaps; mouse at viewer right. No large table/background. Character silhouette clean and coherent.
+Avoid: thick borders, gray faded outlines, text, key labels, watermark, screenshots, green screen, old Live2D texture atlas, sprite sheet, disconnected components, extra fingers, duplicated limbs, white scribble-shaped hair highlights.
+
+
+v1.4 uses the previous background plate and complete left forearm generated with built-in image_gen. The following recorded prompts describe those earlier assets.
+
+Mode: built-in image_gen. All chosen sprite assets retain genuine transparency.
+References: crops of the user-approved Shu-redraw-v1.png. Original upper face/head pixels were retained in the final model.
+
+Background plate
+Use case: precise-object-edit. Animation background plate, based on the attached approved chibi Shu illustration.
+Remove BOTH entire foreground arms, including the white/navy/gold wide sleeves, their gold shoulder ornaments, and both mitten hands. Remove the keyboard and mouse completely. Reconstruct only the occluded central white-and-navy torso clothing and the long silver/gold/blue hair behind them. Keep the existing head, face, eyes, antlers, ears, hair and central chest ornaments exactly in place. The result is an armless seated BUST background layer for a 2D puppet rig; the arms will be separate sprites. No new hands, arms, devices, legs, table, floor or background. Do not extend the torso below the old keyboard baseline. Preserve the input canvas proportions and character scale, with transparent negative space. Keep the same thin opaque black line weight and flat chibi styling. The empty areas outside the body and hair must be truly transparent.
+
+Keyboard arm
+Use case: background-extraction / precise-object-edit. Create one transparent 2D animation arm layer from the attached chibi crop.
+Isolate ONLY the complete keyboard-side forearm: the wide white sleeve, navy cuff band, muted gold decoration and small gold knot at the top, plus the cream mitten hand with three rounded fingers. Keep these parts firmly connected as ONE coherent arm. Keep the same contact pose, angle, colors, fine black line weight, and relative hand/sleeve proportions as the source crop. Reconstruct the small sleeve area and complete rounded fabric hem currently hidden by the keyboard, so this is a complete arm with no rectangular chopped edge. Remove the keyboard, hair, torso and every other surrounding object. Retain the broad white shoulder-side fabric as an overlap tab that can attach beneath the torso. Keep the arm's placement and scale within the same crop framing, leave transparent margins on all sides, and show the complete silhouette. No mouse, no extra hand, no text, no background. Do not enlarge the fist.
